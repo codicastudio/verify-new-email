@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/verifynewemail",
+    "name": "codica-studio/verifynewemail",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/verifynewemail",
+    "homepage": "https://github.com/codica-studio/verifynewemail",
     "license": "MIT",
     "authors": [
         {
