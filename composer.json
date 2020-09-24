@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/verifynewemail",
+    "name": "codicastudio/verify-new-email",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/verifynewemail",
+    "homepage": "https://github.com/codicastudio/verify-new-email",
     "license": "MIT",
     "authors": [
         {
@@ -38,7 +38,7 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "extra": {
         "laravel": {
